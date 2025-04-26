@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Carrior",
+    "color": "#FFFFFF",
+    "bgcolor": "#000000",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -61,6 +61,15 @@
         "9": {
             "name": "Eurocopter EC135",
             "liveries": [
+                {
+                    "name": "Carrior Eurocopter",
+                    "texture": [
+                        "/models/aircraft/premium/ec135/normal.jpg",
+                        "/models/aircraft/premium/ec135/specular.jpg",
+                        "https://raw.githubusercontent.com/af267/Carrior-Liveries/refs/heads/main/N135CZ.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Normal map",
@@ -101,6 +110,13 @@
         "13":{
             "name": "de Havilland Canada DHC2 Beaver",
             "liveries": [
+                {
+                    "name": "Carrior Beaver",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Carrior-Liveries/refs/heads/main/N127CX.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
@@ -571,6 +587,13 @@
         "2864": {
             "name": "Leonardo - AugustaWestland AW609",
             "liveries": [
+                {
+                    "name": "Carrior AW609",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Carrior-Liveries/refs/heads/main/N609CX.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
@@ -580,6 +603,13 @@
         "2852": {
             "name": "Cameron R-650 Rozière Balloon",
             "liveries": [
+                {
+                    "name": "Carrior Rozière",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/Carrior-Liveries/refs/heads/main/Roziere.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
